@@ -124,5 +124,10 @@ def green_fn(omega_values, N):
 omegas = np.linspace(0.1, 2, 100)
 
 # Question 4
+# The procedure for question 4 seems to be dependent upon the success of the N=30 portion of question 3
+# which I was unable to crack. With the homework 3 problem set being due in 2 days I am going to shift
+# attention towards working on that but I hope this is sufficient progress for section 4. If it isn't
+# then please let me know for future sections!!
+
 
 
